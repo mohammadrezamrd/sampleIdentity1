@@ -11,7 +11,7 @@ using sampleIdentity.Models;
 namespace sampleIdentity.Controllers
 {
     public class ProductsController : Controller
-    {
+    {//rrrr
         private ApplicationDbContext db = new ApplicationDbContext();
 
         // GET: Products
