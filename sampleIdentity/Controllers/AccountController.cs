@@ -14,7 +14,7 @@ namespace sampleIdentity.Controllers
 {
     [Authorize]
     public class AccountController : Controller
-    {
+    {//yyyy
         private ApplicationSignInManager _signInManager;
         private ApplicationUserManager _userManager;
 
